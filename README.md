@@ -1,7 +1,6 @@
 # Manual Full-Disk Encryption: LUKS2 + TPM2 Auto-unlock on Ubuntu
 
-**Author:** Dikshit RJ
-**Mentor:** Nischay Bharadwaj Mahesh
+**Author:** Dikshit Rishi Jain
 
 ## What I built
 
